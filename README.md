@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - WordPress
 - Flutter
 - ChatGPT
+- Augmented Reality
 
 ## :wrench: Skills
 
